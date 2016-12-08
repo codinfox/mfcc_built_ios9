@@ -21,6 +21,7 @@
 
 #include "DebugUtils.h"
 #include <boost/lexical_cast.hpp>
+#include <iostream>
 #include <fstream>
 
 std::string distance_matrix_to_matlab(const simod1::DTW<float>::DistanceMatrix& d)

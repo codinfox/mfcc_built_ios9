@@ -22,6 +22,7 @@
 #include <string>
 #include <stdexcept>
 #include <algorithm>
+#include <iostream>
 #include <math.h>
 
 #include "AudioFileReader.hpp"
